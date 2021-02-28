@@ -8,28 +8,28 @@ IOB (Inside-Outside-Beggining) tagging is extended version of IO tagging. The be
 tagged as B-xxx and following words of the entity are tagged as I-xxx. Other words are tagged as O (O for out).
 
 Example: 
-Türkiye       --> B-ORG
-Cumhuriyeti   --> I-ORG
-1923          --> O
-yılında       --> O
-kurulmuştur.  --> O
-İlk           --> O
-cumhurbaşkanı --> O
-Mustafa       --> B-PER
-Kemal         --> I-PER
-Atatürk'tür.  --> I-PER
-Başkenti      --> O
-Ankara'dır.   --> B-LOC
+Türkiye       --> B-ORG                                                             
+Cumhuriyeti   --> I-ORG                                                                
+1923          --> O                                                                                     
+yılında       --> O                                                                       
+kurulmuştur.  --> O                                                                             
+İlk           --> O                                                                   
+cumhurbaşkanı --> O                                                                                   
+Mustafa       --> B-PER                                                                       
+Kemal         --> I-PER                                                                                                           
+Atatürk'tür.  --> I-PER                                                                                   
+Başkenti      --> O                                                                      
+Ankara'dır.   --> B-LOC                                                                                                                           
 
 
-**CRF features:**
-* Root (Stem)
-* Part-of-Speech (POS)
-* Proper Noun (PROP)
-* Noun Case (NCS)
-* Orthographic Case (OCS)
-* All Inflectional Features (INF)
-* Start of the Sentence (SS)
+**CRF features:**     
+* Root (Stem)                                                                                                           
+* Part-of-Speech (POS)                                                                                                                                                   
+* Proper Noun (PROP)                                                                                          
+* Noun Case (NCS)                                                                                               
+* Orthographic Case (OCS)                                                                                                                      
+* All Inflectional Features (INF)                                                                                               
+* Start of the Sentence (SS)                                                                        
 
 
 ## Result 
