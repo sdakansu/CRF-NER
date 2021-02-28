@@ -23,21 +23,21 @@ Ankara'dır.   --> B-LOC
 
 
 **CRF features:**     
-* Root (Stem)                                                                                                           
-* Part-of-Speech (POS)                                                                                                                                                   
-* Proper Noun (PROP)                                                                                          
+* Root (Stem)                                                                                                                                                           
+* Part-of-Speech (POS)                                                                                                                                                           
+* Proper Noun (PROP)                                                                                                
 * Noun Case (NCS)                                                                                               
 * Orthographic Case (OCS)                                                                                                                      
-* All Inflectional Features (INF)                                                                                               
+* All Inflectional Features (INF)                                                                                                                  
 * Start of the Sentence (SS)                                                                        
 
 
 ## Result 
-**F1 Scores**
-CRF1 --> 0.8485571904592357
-CRF2 --> 0.8402884363601334
-CRF3 --> 0.8467095943830918
-CRF4 --> 0.8105135631724366
-CRF5 --> 0.845174444670488
-Average --> 0.8382486458090771
+**F1 Scores**                                                                                                                 
+CRF1 --> 0.8485571904592357                                                                                                                                               
+CRF2 --> 0.8402884363601334                                                                                           
+CRF3 --> 0.8467095943830918                                                                                                               
+CRF4 --> 0.8105135631724366                                                                                                       
+CRF5 --> 0.845174444670488                                                                                        
+Average --> 0.8382486458090771                                                                                    
 
