@@ -33,7 +33,11 @@ Ankara'dır.   --> B-LOC
 
 
 ## Result 
-Accuracy is an important measure for ML models but for our dataset, but 
-most of the labels are “O”. Therefore, accuracy score mostly gives high 
-scores because of high base line accuracy.
+**F1 Scores**
+CRF1 --> 0.8485571904592357
+CRF2 --> 0.8402884363601334
+CRF3 --> 0.8467095943830918
+CRF4 --> 0.8105135631724366
+CRF5 --> 0.845174444670488
+Average --> 0.8382486458090771
 
